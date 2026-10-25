@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Manan Jain 👋
 
-<!--
-**WHENMANANCODES/WHENMANANCODES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | C++ | DSA
 
-Here are some ideas to get you started:
+I’m a Computer Science Engineering student passionate about building practical web applications and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building full-stack projects
+- 🌱 Learning backend development, authentication, and AI integration
+- 🧠 Practicing Data Structures & Algorithms in C++
+- 🎯 Working towards becoming a better software engineer
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" alt="Tech stack icons" />
+</p>
+
+### 🚀 Featured Project
+
+**Interview Prep Dashboard**
+
+A dashboard to track coding practice and review problem-solving progress.
+
+- [View my project on GitHub](https://github.com/WHENMANANCODES/Interview-Prep-Dashboard)
+
+### 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=WHENMANANCODES&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENMANANCODES&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+### 🔗 Connect With Me
+
+- 💻 [GitHub](https://github.com/WHENMANANCODES)
+- 🧩 [LeetCode](https://leetcode.com/u/JainManan/)
+
+---
+
+*Learning, building, and improving one commit at a time.* 🚀
